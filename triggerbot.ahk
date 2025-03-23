@@ -17,11 +17,11 @@ key_hold_mode := "," ; To toggle On / Off
 key_exit := "End" ; Panic key
 key_hold := "XButton2" ; Button / Key to hold to use
 
-pixel_box := 5 ; Fov (In Pixels)
+pixel_box := 50 ; Fov (In Pixels)
 pixel_sens := 43 ; Color Sensetivity (lower it to make it detect less shades of black, higher to do the opposite)
 pixel_color := ["0x333333", "0x444444"] ; Dark gray colors (adjust to your game's player color)
 
-click_delay := 10 ; Delay in MS
+click_delay := 1 ; Delay in MS
 
 
 ; ----------------------------------------------------------------------------------------------------------------------- ;
